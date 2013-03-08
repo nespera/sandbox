@@ -2,3 +2,5 @@ Version 0.1
 ===========
 
 Barely functional - random crashes
+
+Still has issues...
